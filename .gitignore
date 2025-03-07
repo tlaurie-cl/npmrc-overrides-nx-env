@@ -1,0 +1,6 @@
+.nx/cache
+.nx/workspace-data
+
+.vscode
+
+node_modules
